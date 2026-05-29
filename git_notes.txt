@@ -1,0 +1,2 @@
+What is git and GitHub?
+Git is a software tool for version control, while GitHub is an online platform that hosts Git projects and adds social collaboration features
