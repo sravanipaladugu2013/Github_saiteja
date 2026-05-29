@@ -1,0 +1,2 @@
+what is Java?
+Java is a versatile, high-level, and object-oriented programming language designed to let developers "write once, run anywhere". This means Java code can be compiled into bytecode that runs on any device with a Java Virtual Machine (JVM), making it highly portable, secure, and widely used for enterprise software, cloud applications, and Android apps
