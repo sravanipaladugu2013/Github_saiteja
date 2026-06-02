@@ -1,0 +1,1 @@
+Selenium primarily refers to a popular open-source software framework used for automating web browsers. It is widely used by developers and QA engineers to write test scripts that simulate user actions (like clicking links, filling forms, and validating page behavior) across major browsers.
